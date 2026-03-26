@@ -6,3 +6,7 @@ __pycache__
 ./.idea
 ./.pytest_cache
 ./.venv
+./big-data
+big-data
+worksheet-2/mnist_dataset.csv
+datasets

@@ -16,5 +16,3 @@ documents
 *.keras
 *.csv
 deep
-final_assessment_nlp *
-final_assessment_nlp/*
